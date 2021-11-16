@@ -1,0 +1,9 @@
+,data,tn,fp,fn,tp,classifier
+0,whole,41,16,61,35,M2
+1,far_boundary,34,13,43,24,M2
+2,whole,39,21,30,88,M5
+3,far_boundary,19,12,8,41,M5
+4,whole,42,15,47,49,M37
+5,far_boundary,31,12,21,31,M37
+6,whole,45,15,50,68,M38
+7,far_boundary,35,9,25,42,M38
