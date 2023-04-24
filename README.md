@@ -1,4 +1,4 @@
-# Code for Manuscript Development of Predictive Classification Models for Whole Cell Antimycobacterial Activity of Benzothiazinones
+# Code for Manuscript: Development of Predictive Classification Models for Whole Cell Antimycobacterial Activity of Benzothiazinones
 
 &nbsp;
 
