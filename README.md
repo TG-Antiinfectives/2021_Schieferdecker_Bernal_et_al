@@ -39,6 +39,8 @@ The `notebooks` represent the different parts of the manuscript. Several `Python
 }
 ```
 
+&nbsp;
+
 ## License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
